@@ -1,7 +1,7 @@
 <div align=center> <h2> 👩🏻‍🌾 About Me </h2></div>
 <div align=center> 
 Having an eye on the structure and data flow <br>
-Enjoying the questions "why"<br>
+Enjoying posing the questions "why"<br>
 왜 라는 질문으로 더 좋은 방법을 고민합니다. <br>
 구조와 데이터 흐름을 볼 수 있는 개발자로 성장하고자 합니다. 
 </div>
@@ -18,7 +18,7 @@ Enjoying the questions "why"<br>
     <tr>
         <td><a href="https://plgrim.com/">플그림</a></td>
         <td><a href="https://ssfshop.com/">SSF SHOP 운영 및 개발</a></td>
-        <td>회원, 상품팀 개발담당</td>
+        <td>회원, 상품 풀스택 개발</td>
         <td>2023.02 ~ </td>
     </tr>
 </table>
