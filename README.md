@@ -1,11 +1,14 @@
 <div align=center> <h2> 👩🏻‍🌾 About Me </h2></div>
 <div align=center> 
-Having an eye on the structure and data flow <br>
-Enjoying posing the questions "why"<br>
-왜 라는 질문으로 더 좋은 방법을 고민합니다. <br>
-구조와 데이터 흐름을 볼 수 있는 개발자로 성장하고자 합니다. 
+질문은 성장의 핵심이라 생각합니다. 시스템에 대해 끊임없는 질문, 호기심을 가지고 지속적으로 공부하는 엔지니어가 되고자 합니다.   
 </div>
+<br>
 
+#### 🙋‍♂️저는요! Who Am I
+- [단순화와 정리] 흩어진 정보들을 모아 단순화/규격화 하는 것을 좋아합니다.  
+- [기록과 과정] “문제발견->해결과정->배운 점”을 기록하여 나의 성장 진척도를 파악해봅니다. 동료들에게 묻고 답하며 배워가는 그 과정을 중요하게 생각합니다.  
+- [아키텍처와 원리] 아키텍처와 원리를 파고들며 학습합니다. 찾은 레퍼런스와 결과물을 블로그에 공유합니다. 
+<br>
 <div align=center><h2>🍠My Experiences </h2></div>
 <div align=center> 
 <table>
@@ -22,7 +25,7 @@ Enjoying posing the questions "why"<br>
         <td>2023.02 ~ </td>
     </tr>
 </table>
-
+<br>
 <div align=center><h2>💻 My Stacks</h2></div>
 
 <div align=center> 
@@ -48,6 +51,4 @@ Enjoying posing the questions "why"<br>
 </div>
 
 
-<div align=center> <h2> 📊 My Github Stats</h2></div> 
-<div align=center> 
-    
+
