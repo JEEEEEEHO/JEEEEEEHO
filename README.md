@@ -1,6 +1,7 @@
 <div align=center> <h2> 👩🏻‍🌾 About Me </h2></div>
 <div align=center> 
-질문은 성장의 핵심이라 생각합니다. 시스템에 대해 끊임없는 질문, 호기심을 가지고 지속적으로 공부하는 엔지니어가 되고자 합니다.<br>   
+질문은 성장의 핵심이라 생각합니다.<br>     
+시스템에 대해 끊임없는 질문, 호기심을 가지고 지속적으로 공부하는 엔지니어가 되고자 합니다.<br>   
 Asking questions is the key to growth.<br> I strive to be an engineer who continuously studies with curiosity and a relentless desire to understand systems.
 </div>
 <br>
