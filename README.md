@@ -22,7 +22,7 @@ Asking questions is the key to growth.<br> I strive to be an engineer who contin
     </tr>
     <tr>
         <td><a href="https://plgrim.com/">플그림</a></td>
-        <td><a href="https://ssfshop.com/">SSF SHOP 운영 및 개발</a></td>
+        <td><a href="https://www.ssfshop.com/main">SSF SHOP 운영 및 개발</a></td>
         <td>회원, 상품 풀스택 개발</td>
         <td>2023.02 ~ </td>
     </tr>
