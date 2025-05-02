@@ -11,23 +11,7 @@ Asking questions is the key to growth.<br> I strive to be an engineer who contin
 - [기록과 과정] “문제발견->해결과정->배운 점”을 기록하여 나의 성장 진척도를 파악해봅니다. 동료들에게 묻고 답하며 배워가는 그 과정을 중요하게 생각합니다.  
 - [아키텍처와 원리] 아키텍처와 원리를 파고들며 학습합니다. 찾은 레퍼런스와 결과물을 블로그에 공유합니다. 
 <br>
-<div align=center><h2>🍠My Experiences </h2></div>
-<div align=center> 
-<table>
-    <tr>
-        <th>Organization</th>
-        <th>Project</th>
-        <th>Role</th>
-        <th>Period</th>
-    </tr>
-    <tr>
-        <td><a href="https://plgrim.com/">플그림</a></td>
-        <td><a href="https://www.ssfshop.com/main">SSF SHOP 운영 및 개발</a></td>
-        <td>회원, 상품 백엔드 개발</td>
-        <td>2023.02 ~ </td>
-    </tr>
-</table>
-<br>
+
 <div align=center><h2>💻 My Stacks</h2></div>
 
 <div align=center> 
