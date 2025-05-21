@@ -12,14 +12,19 @@ I make sure to fully understand the requirements before jumping to conclusions o
   <br>
 
 ## 🙋‍♂️저는요! Who Am I
-**단순화와 정리**    
-흩어진 정보들을 모아 단순화/규격화 하는 것을 좋아합니다.  
+- **단순화와 정리 Simplification & Organization**  
+  흩어진 정보들을 모아 단순화/규격화 하는 것을 좋아합니다.    
+  I like to collect scattered information and make it simple and standardized.
 
-**기록과 과정**    
-“문제발견->해결과정->배운 점”을 기록하여 나의 성장 진척도를 파악해봅니다. 동료들에게 묻고 답하며 배워가는 그 과정을 중요하게 생각합니다.  
+- **기록과 과정 Documentation & Process**  
+  “문제발견->해결과정->배운 점”을 기록하여 나의 성장 진척도를 파악해봅니다. 동료들에게 묻고 답하며 배워가는 그 과정을 중요하게 생각합니다.    
+  I track my progress by recording problems, solutions, and lessons learned—often learning together with teammates.
 
-**아키텍처와 원리**    
-아키텍처와 원리를 파고들며 학습합니다. 찾은 레퍼런스와 결과물을 블로그에 공유합니다. 
+- **아키텍처와 원리 Architecture & Principles**  
+  아키텍처와 원리를 파고들며 학습합니다. 찾은 레퍼런스와 결과물을 블로그에 공유합니다.    
+  I dig into architecture and core principles, and share useful findings or results on my blog.
+
+
 
 <br>
 
