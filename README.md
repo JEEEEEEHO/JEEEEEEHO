@@ -1,38 +1,48 @@
-<div align=center> <h2> 👩🏻‍🌾 About Me </h2></div>
-<div align=center> 
-질문은 성장의 핵심이라 생각합니다.<br>     
-시스템에 대해 끊임없는 질문, 호기심을 가지고 지속적으로 공부하는 엔지니어가 되고자 합니다.<br>   
-Asking questions is the key to growth.<br> I strive to be an engineer who continuously studies with curiosity and a relentless desire to understand systems.
-</div>
+## 👩🏻‍🌾 개발 철학 Pragramming Philosophy 
+### "불평 전에 분석을 Analyze Before Complaining"
+**리펙토링도 학습이다 Refactoring Is Learning**    
+I treat refactoring as a key part of my growth as a developer, not just a way to clean up code.
+
+**근본을 이해하자 (세련됨에 눈멀지 말고) Understand the Fundamentals (Don’t Be Blinded by Sophistication)**    
+I prioritize a deep understanding of the basics, instead of being distracted by flashy or overly sophisticated and 'fancy' solutions.
+
+**섣부른 판단 앞에 요구사항이 있다 Requirements Before Snap Judgments**    
+I make sure to fully understand the requirements before jumping to conclusions or making decisions.
+
+  <br>
+
+## 🙋‍♂️저는요! Who Am I
+**단순화와 정리**    
+흩어진 정보들을 모아 단순화/규격화 하는 것을 좋아합니다.  
+
+**기록과 과정**    
+“문제발견->해결과정->배운 점”을 기록하여 나의 성장 진척도를 파악해봅니다. 동료들에게 묻고 답하며 배워가는 그 과정을 중요하게 생각합니다.  
+
+**아키텍처와 원리**    
+아키텍처와 원리를 파고들며 학습합니다. 찾은 레퍼런스와 결과물을 블로그에 공유합니다. 
+
 <br>
 
-#### 🙋‍♂️저는요! Who Am I
-- [단순화와 정리] 흩어진 정보들을 모아 단순화/규격화 하는 것을 좋아합니다.  
-- [기록과 과정] “문제발견->해결과정->배운 점”을 기록하여 나의 성장 진척도를 파악해봅니다. 동료들에게 묻고 답하며 배워가는 그 과정을 중요하게 생각합니다.  
-- [아키텍처와 원리] 아키텍처와 원리를 파고들며 학습합니다. 찾은 레퍼런스와 결과물을 블로그에 공유합니다. 
-<br>
+## 💻 Stacks
 
-<div align=center><h2>💻 My Stacks</h2></div>
-
-<div align=center> 
+<div align=left> 
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
     <br>
-
   <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
-  <img src="https://img.shields.io/badge/spring Security-6DB33F?style=for-the-badge&logo=spring Security&logoColor=white">
+    <img alt="Spring" src ="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
   <br>
 
 
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
-<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/><br>
+<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img alt="GitHub" src ="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apache kafka&logoColor=white">
-<img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-FF9900.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
+<img alt="Amazon AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />
 </div>
 
