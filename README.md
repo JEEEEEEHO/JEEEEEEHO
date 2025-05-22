@@ -17,7 +17,7 @@ I make sure to fully understand the requirements before jumping to conclusions o
   I like to collect scattered information and make it simple and standardized.
 
 - **기록과 과정 Documentation & Process**  
-  “문제발견->해결과정->배운 점”을 기록하여 나의 성장 진척도를 파악해봅니다. 동료들에게 묻고 답하며 배워가는 그 과정을 중요하게 생각합니다.    
+  “문제발견->해결과정->배운 점”을 기록하여 성장 진척도를 파악해봅니다. 동료들에게 묻고 답하며 함께 배워가는 과정을 중요하게 생각합니다.    
   I track my progress by recording problems, solutions, and lessons learned—often learning together with teammates.
 
 - **아키텍처와 원리 Architecture & Principles**  
