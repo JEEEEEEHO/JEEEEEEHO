@@ -1,4 +1,4 @@
-## 👩🏻‍🌾 개발 철학 Pragramming Philosophy 
+## 👩🏻‍🌾 개발 철학 Programming Philosophy 
 ### "불평 전에 분석을 Analyze Before Complaining"
 **리펙토링도 학습이다 Refactoring Is Learning**    
 I treat refactoring as a key part of my growth as a developer, not just a way to clean up code.
