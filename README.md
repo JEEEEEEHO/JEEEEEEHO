@@ -25,7 +25,7 @@ I make sure to fully understand the requirements before jumping to conclusions o
 I thoroughly analyze principles, document my findings on my blog, and always plan the overall design flow ahead.
 
 - **존중과 협업 Collaborate with Respect**  
- 원리를 깊게 분석하고, 이를 블로그에 기록하며, 전체적인 설계 흐름을 미리 계획합니다.       
+항상 예의와 존중을 바탕으로 소통하며, 말과 행동에 신중을 기해 좋은 팀워크를 만들어냅니다.     
 I always communicate with respect and courtesy, maintaining a collaborative attitude for positive and productive team environment.
 
 
