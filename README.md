@@ -12,17 +12,21 @@ I make sure to fully understand the requirements before jumping to conclusions o
   <br>
 
 ## 🙋‍♂️저는요! Who Am I
-- **단순화와 정리 Simplification & Organization**  
-  흩어진 정보들을 모아 단순화/규격화 하는 것을 좋아합니다.    
-  I like to collect scattered information and make it simple and standardized.
+- **오너쉽 Strong sense of Ownership**  
+  문제의 흐름을 빠르게 파악하고, '왜' 라는 질문으로 더 나은 방법이 있는지 항상 고민합니다.    
+  I constantly compare alternatives for better outcomes and take full responsibility for my work.
 
-- **기록과 과정 Documentation & Process**  
-  “문제발견->해결과정->배운 점”을 기록하여 성장 진척도를 파악해봅니다. 동료들에게 묻고 답하며 함께 배워가는 과정을 중요하게 생각합니다.    
-  I track my progress by recording problems, solutions, and lessons learned—often learning together with teammates.
+- **그림(다이어그램)으로 소통 Communicating through Diagrams**  
+ 복잡한 시스템이나 프로세스를 그림과 다이어그램으로 시각화하여, 이해하기 쉽고 명확하게 소통합니다.    
+ I simplify complex systems and processes by visualizing them with diagrams, making ideas easy to understand and communicate clearly.
 
-- **아키텍처와 원리 Architecture & Principles**  
-  아키텍처와 원리를 파고들며 학습합니다. 찾은 레퍼런스와 결과물을 블로그에 공유합니다.    
-  I dig into architecture and core principles, and share useful findings or results on my blog.
+- **분석과 기록, 계획 Analysis, Documentation, and Planning**  
+ 원리를 깊게 분석하고, 이를 블로그에 기록하며, 전체적인 설계 흐름을 미리 계획합니다.       
+I thoroughly analyze principles, document my findings on my blog, and always plan the overall design flow ahead.
+
+- **존중과 협업 Collaborate with Respect**  
+ 원리를 깊게 분석하고, 이를 블로그에 기록하며, 전체적인 설계 흐름을 미리 계획합니다.       
+I always communicate with respect and courtesy, maintaining a collaborative attitude for positive and productive team environment.
 
 
 
