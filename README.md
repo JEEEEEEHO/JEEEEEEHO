@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️저는요! Who Am I
 - **오너쉽 Strong sense of Ownership**  
-  문제의 흐름을 빠르게 파악하고, '왜' 라는 질문으로 더 나은 방법이 있는지 항상 고민합니다.    
+  문제의 전후맥락을 파악하고, '왜' 라는 질문으로 더 나은 방법이 있는지 항상 고민합니다.    
   I constantly compare alternatives for better outcomes and take full responsibility for my work.
 
 - **그림(다이어그램)으로 소통 Communicating through Diagrams**  
