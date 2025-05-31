@@ -1,10 +1,10 @@
 ## 👩🏻‍🌾 개발 철학 Programming Philosophy 
 ### "불평 전에 분석을 Analyze Before Complaining"
-**리펙토링도 학습이다 Refactoring Is Learning**    
+**✔️리펙토링도 학습이다 Refactoring Is Learning**    
 
-**근본을 이해하자 (세련됨에 눈멀지 말고) Understand the Fundamentals (Don’t Be Blinded by Sophistication)**    
+**✔️근본을 이해하자 (세련됨에 눈멀지 말고) Understand the Fundamentals (Don’t Be Blinded by Sophistication)**    
 
-**섣부른 판단 앞에 요구사항이 있다 Requirements Before Snap Judgments**    
+**✔️섣부른 판단 앞에 요구사항이 있다 Requirements Before Snap Judgments**    
 
   <br>
 
